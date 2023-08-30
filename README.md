@@ -1,4 +1,4 @@
-# data_science_from_scratch
+# Data Science do Zero
 Estudo do livro "Data Science do Zero", majoritariamente utilizando jupyter notebook
 ## Estrutura
 Os arquivos estão organizados por capítulos, sendo cada capítulo uma pasta que contém um jupyter notebook e possíveis arquivos adicionais
