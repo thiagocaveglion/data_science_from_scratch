@@ -7,4 +7,5 @@ Os códigos são realizados de maneira educacional, tendo algumas alterações e
 ## Bibliotecas
 As bibliotecas estão sendo instaladas em um env conda, como recomenda o livro, e serão listadas nos arquivos ipynb conforme o andamento
 ##
-![image](https://github.com/thiagocaveglion/data_science_from_scratch/assets/107949964/b4a3af46-babd-40ac-817d-766ef93655b9)
+![image](https://github.com/thiagocaveglion/data_science_from_scratch/assets/107949964/1b11f7e3-87a2-499a-b5fc-5c849bf87eb9)
+
